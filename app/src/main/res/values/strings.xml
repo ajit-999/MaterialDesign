@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MaterialDesign</string>
+    <string name="save">save</string>
+    <string name="setting">setting</string>
+    <string name="mail">Mail</string>
+    <string name="camera">camera</string>
+    <string name="Help">help</string>
+
+
 </resources>
